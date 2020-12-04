@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 01 13:33:59 CET 2020
+https\://nexus.carm.es/nexus/content/groups/public/.error=Could not transfer artifact es.mpt.dsic\:eeutil-csvbroker-stub\:pom\:1.2 from/to carm-public (https\://nexus.carm.es/nexus/content/groups/public)\: nexus.carm.es
+https\://repo.maven.apache.org/maven2/.lastUpdated=1606825895449
+https\://nexus.carm.es/nexus/content/repositories/thirdparty/.error=Could not transfer artifact es.mpt.dsic\:eeutil-csvbroker-stub\:pom\:1.2 from/to carm-thirdparty (https\://nexus.carm.es/nexus/content/repositories/thirdparty/)\: nexus.carm.es
+@default-carm-thirdparty-https\://nexus.carm.es/nexus/content/repositories/thirdparty/.lastUpdated=1606826039556
+https\://repo.maven.apache.org/maven2/.error=
+@default-carm-public-https\://nexus.carm.es/nexus/content/groups/public/.lastUpdated=1606826039547

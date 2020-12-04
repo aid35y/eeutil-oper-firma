@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 03 16:29:45 CET 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1606826438454
+https\://raw.githubusercontent.com/abilionavarro/Eeutil-Oper-Firma/mvn-repo/.lastUpdated=1606996626061
+@default-carm-thirdparty-https\://nexus.carm.es/nexus/content/repositories/thirdparty/.lastUpdated=1606826438444
+@default-carm-public-https\://nexus.carm.es/nexus/content/groups/public/.lastUpdated=1606826438425
+https\://raw.githubusercontent.comabilionavarro/Eeutil-Oper-Firma/mvn-repo/.error=Could not transfer artifact es.mpt.dsic\:eeutil-csvstoragews-stub\:jar\:sources\:1.2 from/to Eeutil-Oper-Firma (https\://raw.githubusercontent.comabilionavarro/Eeutil-Oper-Firma/mvn-repo)\: raw.githubusercontent.comabilionavarro
+https\://raw.githubusercontent.com/abilionavarro/Eeutil-Oper-Firma/mvn-repo/.error=
+https\://nexus.carm.es/nexus/content/groups/public/.error=Could not transfer artifact es.mpt.dsic\:eeutil-csvstoragews-stub\:jar\:sources\:1.2 from/to carm-public (https\://nexus.carm.es/nexus/content/groups/public)\: nexus.carm.es
+https\://raw.githubusercontent.com/abilionavarro/eeutil-oper-firma/mvn-repo/.error=
+https\://nexus.carm.es/nexus/content/repositories/thirdparty/.error=Could not transfer artifact es.mpt.dsic\:eeutil-csvstoragews-stub\:jar\:sources\:1.2 from/to carm-thirdparty (https\://nexus.carm.es/nexus/content/repositories/thirdparty/)\: nexus.carm.es
+https\://raw.githubusercontent.com/abilionavarro/eeutil-oper-firma/mvn-repo/.lastUpdated=1607009385114
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact es.mpt.dsic\:eeutil-csvstoragews-stub\:jar\:sources\:1.2 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+@default-Eeutil-Oper-Firma-https\://raw.githubusercontent.comabilionavarro/Eeutil-Oper-Firma/mvn-repo/.lastUpdated=1606991707951
+https\://raw.githubusercontent.com/josefsabater/eeutil-util-firma/mvn-repo/.lastUpdated=1607008525634
+https\://raw.githubusercontent.com/josefsabater/eeutil-util-firma/mvn-repo/.error=
